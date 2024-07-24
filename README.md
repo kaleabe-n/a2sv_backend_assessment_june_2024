@@ -1,5 +1,8 @@
 # a2sv_backend_assessment_june_2024
 
+"python -m venv venv"
+to create virtual environment
+
 "venv/Scripts/activate.bat"
 to activate environment in the root folder
 
